@@ -1,0 +1,13 @@
+.colors {
+  background: #4d3059;
+  background-color: #093203;
+}
+
+body {
+  background-image: url(/bg.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: soft-light;
+}
